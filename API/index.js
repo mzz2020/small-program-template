@@ -5,4 +5,6 @@
  * @Date: 2021-05-23
  */
 
- export default {}
+module.exports = {
+   HOME: 'Home'
+ }
