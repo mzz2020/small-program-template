@@ -1,0 +1,14 @@
+{
+  "name": "mzzSmallprogram",
+  "version": "1.0.0",
+  "description": "mzz small program",
+  "main": "app.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vant/weapp": "^1.6.8",
+    "nsevent": "^0.0.2"
+  }
+}
